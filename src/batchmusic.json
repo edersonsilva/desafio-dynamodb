@@ -29,16 +29,6 @@
                   "SongYear": {"S": "1992"}
                 }
             }
-        },
-        {
-            "PutRequest": {
-                "Item": {
-                  "Artist": {"S": "Red Hot Chilli Peppers"},
-                  "SongTitle": {"S": "Otherside"},
-                  "AlbumTitle": {"S": "Otherside"},
-                  "SongYear": {"S": "1992"}
-                }
-            }
         }
       ]
 }
